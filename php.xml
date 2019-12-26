@@ -1,13 +1,7 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="a3e44932-e980-4939-9383-478e57fce77f" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter id="a3e44932-e980-4939-9383-478e57fce77f" name="PHP 7.1" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
