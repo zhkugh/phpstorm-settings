@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="dd" value="dd($END$);" description="dd(statement)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($END$) {&#10;}" description="(if (statement) {})" toReformat="false" toShortenFQNames="true" />
+</templateSet>
